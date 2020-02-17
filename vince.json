@@ -1,0 +1,10 @@
+{
+  "kernel": {
+    "name": "Stormbreaker Kernel -vince -4.9",
+    "version": "20200215",
+    "link": "https://vorboss.dl.sourceforge.net/project/stormbreakerdevices/vince/Stormbreaker-vince-4.9-20200215-1516.zip",
+    "date": "2020-02-15",
+    "changelog_url": "https://raw.githubusercontent.com/Stormbreaker-Project/FKM/master/vince-changelog.txt",
+    "sha1": "89798awedaosidja0eq9u12easdawsdkaldsjasd"
+  }
+}
