@@ -1,0 +1,13 @@
+[New]
+* Linux Stable 4.9.214
+-
+[Device Side]
+* CAF Tag LA.UM.8.6.2.r1-06100-89xx.0
+* Increased max CPU Freq to 2.2 gHz
+* Compiled with Proton Clang 11.0.0
+* Enabled Boeffla wakelock blocker
+* TCP westwood added
+* Enabled fastcharge
+* minor adreno boosts
+* Added anxiety io-sched
+* Rapid GC for f2fs
