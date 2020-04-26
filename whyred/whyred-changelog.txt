@@ -1,7 +1,6 @@
-- Merged 4.4.214 
-- Merged qca-wifi-host-cmn & qcacld-3.0 from LA.UM.7.2.r1-08200-sdm660.0
-- Added Anxiety I/O Scheduler
-- Added DTS Eagle audio support
-- Added Wireguard Bacc 
-- Compiled with clang 10.0.1 yo
-
+- Merged 4.4.220
+- Merged LA.UM.8.2.r2-01300-sdm660.0 caf tag
+- Merged qca-wifi-host-cmn & qcacld-3.0 from LA.UM.7.2.r3-00900-sdm660.0
+- Upstream wireguard to 1.0.20200413
+- Compiled with clang 10.0.1
+- Notification LED fix for common trees
