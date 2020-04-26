@@ -1,0 +1,8 @@
+Changelog:
+Version: 6.4
+1. Merged Latest 4.4.220 Android Linux Stable.
+2. Disable GPU wakeup on touch event for battery saving.
+3. CPU & GPU Undervolted for more battery.
+4. Fixed Battery Drain.
+5. Enabled BCL for better battery life.
+6. Disabled some logging and debugging for more peformance.

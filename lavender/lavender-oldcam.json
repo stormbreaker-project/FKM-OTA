@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Predator Stormbreaker [OLD CAM]",
+    "version": "6.4",
+    "link": "https://forum.xda-developers.com/attachment.php?attachmentid=5002899&d=1587731017",
+    "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/lavender/lavender-changelog.txt",
+    "date": "2020-04-24",
+    "sha1": "a4d333ad40c6ac1c006263f2e23f846a25e28859"
+  },
+  "support": {
+    "link": "https://t.me/predator_lavender"
+  }
+}
