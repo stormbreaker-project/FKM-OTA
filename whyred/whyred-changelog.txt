@@ -1,6 +1,14 @@
-- Merged 4.4.220
-- Merged LA.UM.8.2.r2-01300-sdm660.0 caf tag
-- Merged qca-wifi-host-cmn & qcacld-3.0 from LA.UM.7.2.r3-00900-sdm660.0
-- Upstream wireguard to 1.0.20200413
-- Compiled with clang 10.0.5
-- Notification LED fix for common trees
+HMP AND EAS -
+- Merged 4.4.221
+- Upstream wireguard to 1.0.20200429
+- Add backlight dimmer option
+- Add sound control
+- Declare cooling-cells for KGSL cooling device
+- Compiled with Stormbreakerclang 11.0.0
+- Enable Power Suspend
+EAS ONLY
+- Re-introduce sched_boost proc from HMP
+- Enable DYNAMIC_STUNE_BOOST
+- Turn on MIN_CAPACITY_CAPPING feature
+- Switch Dynamic Schedtune Boost to a slot-based tracking system
+- Introduce minimum capacity capping sched feature
