@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Stormbreaker [HMP NEW CAM]",
+    "version": "4.9",
+    "link": "https://github.com/sreekfreak995/kranul/releases/download/V4.9/SB-hmp-new-cam-20200503_134501-kernel.zip",
+    "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/whyred/whyred-changelog.txt",
+    "date": "2020-05-03",
+    "sha1": "e846602300dd5bf6bd54bb69d8ddb7d7a1ad36cd"
+  },
+  "support": {
+    "link": "https://t.me/BlazingArrow"
+  }
+}
