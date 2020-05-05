@@ -1,14 +1,3 @@
-HMP AND EAS -
-- Merged 4.4.221
-- Upstream wireguard to 1.0.20200429
-- Add backlight dimmer option
-- Add sound control
-- Declare cooling-cells for KGSL cooling device
+ChangeLog
+- Merged 4.4.222
 - Compiled with Stormbreakerclang 11.0.0
-- Enable Power Suspend
-EAS ONLY
-- Re-introduce sched_boost proc from HMP
-- Enable DYNAMIC_STUNE_BOOST
-- Turn on MIN_CAPACITY_CAPPING feature
-- Switch Dynamic Schedtune Boost to a slot-based tracking system
-- Introduce minimum capacity capping sched feature
