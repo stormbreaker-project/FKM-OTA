@@ -1,3 +1,6 @@
-ChangeLog
-- Merged 4.4.222
-- Compiled with Stormbreakerclang 11.0.0
+Change Log 
+- Merge 4.4.223
+- Merge tag 'LA.UM.8.2.r1-06200-sdm660.0'
+- Merge tag 'LA.UM.8.2.r1-06300-sdm660.0'
+- Merge tag 'LA.UM.8.2.r1-06500-sdm660.0'
+- Update Wiredguard to v1.0.20200506
