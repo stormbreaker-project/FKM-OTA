@@ -2,9 +2,9 @@
   "kernel": {
     "name": "Stormbreaker Kernel -vince -4.9",
     "version": "20200215",
-    "link": "https://vorboss.dl.sourceforge.net/project/stormbreakerdevices/vince/Stormbreaker-vince-4.9-20200215-1516.zip",
-    "date": "2020-02-15",
+    "link": "https://downloads.sourceforge.net/project/stormbreakerdevices/vince/Stormbreaker-4.9-2.0-20200520-0857.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fstormbreakerdevices%2Ffiles%2Fvince%2F&ts=1589960409&use_mirror=netcologne",
+    "date": "2020-05-20",
     "changelog_url": "https://raw.githubusercontent.com/Stormbreaker-Project/FKM/master/vince-changelog.txt",
-    "sha1": "89798awedaosidja0eq9u12easdawsdkaldsjasd"
+    "sha1": "7c36d24c1a8ee906d21f079228746f7c94ec3af1"
   }
 }
