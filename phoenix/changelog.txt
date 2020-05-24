@@ -1,0 +1,3 @@
+Added some thermal sensors.
+Swtiched to LELR Relocations.
+Switched to LLD Linker.
