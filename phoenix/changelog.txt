@@ -1,3 +1,11 @@
-Added some thermal sensors.
-Swtiched to LELR Relocations.
-Switched to LLD Linker.
+Merged latest CAF Tag LA.UM.8.9.r1.09200.SM6XX.0 for qcacld-3.0
+Merged latest CAF Tag LA.UM.8.9.r1.09200.SM6XX.0 for fw-api
+Merged latest CAF Tag LA.UM.8.9.r1.09200.SM6XX.0 for qca-wifi-host-cmn
+Merged latest CAF Tag LA.UM.8.9.r1.09200.SM6XX.0 for audio-kernel
+Merged latest CAF Tag LA.UM.8.9.r1.09200.SM6XX.0 for kernel
+Kernel Upstreamed to 4.14.182
+Enabled Stune Boost
+Disabled Tracing
+Disabled Debug fs
+Disabled Debug kernel
+Enabled Optimised Inlining
