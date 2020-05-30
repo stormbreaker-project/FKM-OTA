@@ -1,7 +1,4 @@
 Change Log 
-- Megre 4.4.224
-- Merge tag 'LA.UM.8.2.r2-01900-sdm660.0'
-- Merge tag 'LA.UM.7.2.r1-08800-sdm660.0'
-- Upstream wireguard to v1.0.20200520
-- Fixed dt2w and led for common tree (Huge shoutout to @psndna88 for his 200IQ move)
+- Merge 4.4.225
+- Merge tag 'LA.UM.8.2.r1-06600-sdm660.0'
 - Compiled with aosp clang 11.0.1
