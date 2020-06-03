@@ -1,4 +1,4 @@
 Change Log 
-- Merge 4.4.225
-- Merge tag 'LA.UM.8.2.r1-06600-sdm660.0'
+- Merge 4.4.226
+- Merge tag 'LA.UM.8.2.r1-06700-sdm660.0' 
 - Compiled with aosp clang 11.0.1
