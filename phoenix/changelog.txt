@@ -1,3 +1,2 @@
-Upstreamed Kernel to 4.14.183.
-Some more optimizations.
-Merged latest ASB Tag.
+Merged Tag LA.UM.8.9.r1-09300-SM6xx.0..
+Disabled LMH Thermal Sensors, they don't exist in our device and keep showing 75C.

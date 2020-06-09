@@ -1,10 +1,13 @@
 {
   "kernel": {
-    "name": "StormBreaker Kernel",
-    "version": "2.0",
-    "link": "https://downloads.sourceforge.net/project/stormbreakerdevices/phoenix/StormBreaker-2.0-phoenix-20200603-200635.zip",
-    "date": "2020-06-03",
+    "name": "StormBreaker",
+    "version": "2.1",
+    "link": "https://downloads.sourceforge.net/project/stormbreakerdevices/phoenix/StormBreaker-2.1-phoenix-20200609-21%2041%2029.zip",
     "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/phoenix/changelog.txt",
-    "sha1": "37ab962e9d9f315fe2c496a356329fb343ab1169"
+    "date": "2020-06-10",
+    "sha1": "398ff393a9fe9df07cd41a1d5f6dcd27617162c4"
+  },
+  "support": {
+    "link": "https://t.me/stormbreakerofficial"
   }
 }
