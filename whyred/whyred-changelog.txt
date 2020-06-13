@@ -1,4 +1,7 @@
 Change Log 
-- Merge 4.4.226
-- Merge tag 'LA.UM.8.2.r1-06700-sdm660.0' 
+- Merge 4.4.227
+- Enable CRYPTO_LZ4 and CRYPTO_LZ4HC for zRAM compression
+- Update wireguard to 1.0.20200611 snapshot
+- Staging/qcacld-3.0 : Fall back to LA.UM.7.2.r3-00900-sdm660.0 caf tag
+- EAS: Move to HypeArtist EM
 - Compiled with aosp clang 11.0.1
