@@ -1,1 +1,3 @@
-Upstreamed Kernel to 4.14.184
+Upstreamed to 4.14.185
+Improved thermals for fast charging.
+Improved deep sleep drain.
