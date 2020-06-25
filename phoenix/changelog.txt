@@ -1,3 +1,1 @@
-Upstreamed to 4.14.185
-Improved thermals for fast charging.
-Improved deep sleep drain.
+Upstreamed to 4.14.186
