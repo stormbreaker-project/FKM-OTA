@@ -1,3 +1,7 @@
-Change Log 
-- Merge 4.4.228
-- Compiled with clang 11.0.3 (based on r383902c)
+CHANGE LOG
+- Merged 4.4.229
+- Merge "LA.UM.8.2.r2-02100-sdm660.0" caf tag into the kernel
+- Merge tag "LA.UM.8.2.r1-06900-sdm660.0" caf tag into the kernel
+- Update wireguard to 1.0.20200623 snapshot
+- Add Earpiece and speaker gain
+- Some misc stuff
