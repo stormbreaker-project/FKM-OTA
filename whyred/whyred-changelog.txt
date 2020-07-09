@@ -1,4 +1,4 @@
 CHANGE LOG
-- Source rebased
-- Check GitHub repo for the detailed changelog
-- Zram issues fixed
+- Merged 4.4.230
+- Merge 'LA.UM.8.2.r2-02100-sdm660.0' caf tag into the kernel
+- Compiled with clang 11.0.3
