@@ -1,6 +1,1 @@
-Upstreamed to 4.14.189
-Complete Rebase over sm6150-dev kernel
-Readded CPU input boost & Devfreq boost
-CPU Input Boost can be configured in FK Manager
-Added Spectrum support, download the Spectrum app from the play store
-Updated wireguard to 1.0.20200712
+Upstreamed to 4.14.191
