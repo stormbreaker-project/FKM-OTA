@@ -1,10 +1,7 @@
 [New]
-* Linux Stable 4.9.214
+* Linux Stable 4.9.232
 -
 [Device Side]
-* CAF Tag LA.UM.8.6.2.r1-06100-89xx.0.
-* CPU Freq is 2.2 gHz.
-* GPU Freq is 725 mHz.
-* Compiled with Stormbreaker Clang 11.0.0.
-* Imporved CPUidle and suspend.
-* Improved Crypto.
+* Compiled with Proton clang 12
+* Backport rcu stuff from 4.14
+* Improve stiff
