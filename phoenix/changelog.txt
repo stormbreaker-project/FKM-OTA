@@ -1,1 +1,8 @@
-Upstreamed to 4.14.192
+CHANGE LOG
+- Upstreamed to 4.14.193
+- SLMK Upstreams
+- Msm thermal
+- Improved cpu idle usage
+- Switched to 16 ms pelt
+- Scheduler improvements
+- Fixed active and idle battery drain
