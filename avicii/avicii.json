@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "StormBreaker",
+    "version": "0.1",
+    "link": "https://sourceforge.net/projects/stormbreakerdevices/files/avicii/StormBreaker-0.1-avicii-signed.zip/download",
+    "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/avicii/changelog.txt",
+    "date": "2020-08-21",
+    "sha1": "98f17b4b226404e71c085e298399891be27196db"
+  },
+  "support": {
+    "link": "https://t.me/stormbreakerofficial"
+  }
+}
