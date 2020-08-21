@@ -1,8 +1,5 @@
 CHANGE LOG
-- Upstreamed to 4.14.193
-- SLMK Upstreams
-- Msm thermal
-- Improved cpu idle usage
-- Switched to 16 ms pelt
-- Scheduler improvements
-- Fixed active and idle battery drain
+- Upstreamed to 4.14.194
+- Removed SLMK
+- Fixed idle drain
+- Fingerprint scanner speed improved
