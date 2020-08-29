@@ -1,3 +1,3 @@
-- Initial release
-- Upstreamed kernel
-- Compiled with proton clang 12.0.0
+1. Fixed Double Tap to Wake.
+2. Fixed offscreen gestures.
+3. Added Wireguard Support.
