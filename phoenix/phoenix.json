@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "StormBreaker",
-    "version": "3.5",
-    "link": "https://sourceforge.net/projects/stormbreakerdevices/files/phoenix/StormBreaker-3.5-phoenix-signed.zip/download",
+    "version": "3.6",
+    "link": "https://sourceforge.net/projects/stormbreakerdevices/files/phoenix/StormBreaker-3.6-phoenix-signed.zip/download",
     "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/phoenix/changelog.txt",
-    "date": "2020-08-22",
-    "sha1": "479c28453938db95d1380c0f783fd8582fa52770"
+    "date": "2020-09-08",
+    "sha1": "3ae981b92da2ceb22b713e232303c6d448763b53"
   },
   "support": {
     "link": "https://t.me/stormbreakerofficial"
