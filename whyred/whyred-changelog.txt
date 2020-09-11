@@ -1,10 +1,3 @@
 Changelog -
-- Kernel upstreamed to 4.4.232
-- Wireguard upstreamed to 1.0.20200729 snapshot
-- Import binder from android-4.19-q branch from android common 
-- Merge LA.UM.8.2.r2-02300-sdm660.0 caf tag into the kernel
-- Added Live display drivers 
-- Fix AOSPA dt2w for real this time
-- Fix memory leaks in mdss_livedisplay_update
-- Compiled with latest proton clang 12.0.0
-- Some misc changes
+- Rebased
+- Compiled with GCC 10.2
