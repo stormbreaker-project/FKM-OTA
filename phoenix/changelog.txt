@@ -1,3 +1,2 @@
 CHANGE LOG
-- Upstreamed to 4.14.197
-- Upstreamed wireguard to 1.0.20200908 snapshot
+- Upstreamed to 4.14.198
