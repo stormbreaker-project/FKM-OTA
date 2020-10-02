@@ -1,2 +1,10 @@
 Changelog -
-- Upstreamed to 4.4.236
+- Upstream kernel to Linux version 4.4.238
+- Merge LA.UM.8.2.r1-07300-sdm660.0 caf tag into the kernel
+- Use Westwood as the default TCP congestion algorithm
+- Bbr upstreams 
+- Use wlan drivers from LA.UM.7.2.r1-07200-sdm660.0 caf tag
+- Cleaned up some useless stuff
+- Update msm_ipa.h with latest IPA versions constants
+- More misc changes
+- Compiled with GCC 10.2 yo

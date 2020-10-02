@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "StormBreaker",
-    "version": "3.8-90Hz",
-    "link": "https://sourceforge.net/projects/stormbreakerdevices/files/phoenix/StormBreaker-3.8-90Hz-phoenix-signed.zip/download",
+    "version": "3.9-90Hz",
+    "link": "https://sourceforge.net/projects/stormbreakerdevices/files/phoenix/StormBreaker-3.9-90Hz-phoenix-signed.zip/download",
     "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/phoenix/changelog.txt",
-    "date": "2020-09-12",
-    "sha1": "a1479bc97c4d78cbc39908e62eedefd0c88e6dcd"
+    "date": "2020-10-02",
+    "sha1": "38fcf72c92865c186abd0c0fb8312f6d9fb1cf9e"
   },
   "support": {
     "link": "https://t.me/stormbreakerofficial"

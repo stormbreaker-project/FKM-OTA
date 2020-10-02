@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Stormbreaker [EAS OLD CAM]",
-    "version": "6.3",
-    "link": "https://github.com/sreekfreak995/kranul/releases/download/v6.3/SB-eas-old-cam-20200912_134656-kernel.zip",
+    "version": "6.4",
+    "link": "https://github.com/sreekfreak995/kranul/releases/download/v6.4/SB-eas-old-cam-20201002_012955-kernel.zip",
     "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/whyred/whyred-changelog.txt",
-    "date": "2020-09-12",
-    "sha1": "9c35d4e87d48c569a47a096c9bc5f161f3e1b582"
+    "date": "2020-10-02",
+    "sha1": "4a72509ce757e63592c226947a03b0a8a8f8ef4e"
   },
   "support": {
     "link": "https://t.me/ArrowBreaker"
