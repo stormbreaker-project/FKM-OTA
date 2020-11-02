@@ -1,10 +1,9 @@
 Changelog -
-- Upstream kernel to Linux version 4.4.238
-- Merge LA.UM.8.2.r1-07300-sdm660.0 caf tag into the kernel
-- Use Westwood as the default TCP congestion algorithm
-- Bbr upstreams 
-- Use wlan drivers from LA.UM.7.2.r1-07200-sdm660.0 caf tag
-- Cleaned up some useless stuff
-- Update msm_ipa.h with latest IPA versions constants
-- More misc changes
-- Compiled with GCC 10.2 yo
+• Linux Upstreams to v4.4.241
+• Merge LA.UM.8.2.r2-03000-sdm660.0 caf tag into the kernel
+• Msm: performance: Prevent the driver from handling userspace min freq cpu boost hints
+• soc: qcom: msm_perf: Kill max freq handling too
+• Nuke UFS 
+• Disable msm8998 drivers
+• Build with latest Proton Clang 12.0.0 + LTO + O3
+• Alot more clean up and misc changes refer git repo for more
