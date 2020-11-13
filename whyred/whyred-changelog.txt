@@ -1,5 +1,5 @@
-Changelog -
-• Fixed Hotspot issues with some R roms
-• Update wifi drivers from LA.UM.7.2.r1-09400-sdm660.0 caf tag
-• Signed build as an added security
+CHANGELOG
+• Linux Upstreams to v4.4.243
+• Update wireguard to 1.0.20201112 snapshot
+• Build with latest Proton Clang 12.0.0 + LTO + O3 + DCE
 • Misc changes
