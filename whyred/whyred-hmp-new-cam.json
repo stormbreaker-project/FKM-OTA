@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Stormbreaker [HMP NEW CAM]",
-    "version": "6.6",
-    "link": "https://github.com/sreekfreak995/kranul/releases/download/v6.6/SB-hmp-new-cam-20201113_045142-kernel-signed.zip",
+    "version": "6.7",
+    "link": "https://github.com/sreekfreak995/kranul/releases/download/v6.7/SB-hmp-new-cam-20201229_150455-kernel-signed.zip",
     "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/whyred/whyred-changelog.txt",
-    "date": "2020-11-13",
-    "sha1": "c99678336c257f61ab79481fe34330d461f3922f"
+    "date": "2020-12-29",
+    "sha1": "853fc200101ce0f9037c581ca71878ea4aca2d03"
   },
   "support": {
     "link": "https://t.me/ArrowBreaker"

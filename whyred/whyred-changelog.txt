@@ -1,5 +1,6 @@
 CHANGELOG
-• Linux Upstreams to v4.4.243
-• Update wireguard to 1.0.20201112 snapshot
+• Linux Upstreams to v4.4.249
+• Rebased EAS version over HMP version
+• Update wireguard to 1.0.20201221 snapshot
 • Build with latest Proton Clang 12.0.0 + LTO + O3 + DCE
 • Misc changes
