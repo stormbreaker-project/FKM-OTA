@@ -1,6 +1,9 @@
 CHANGELOG
-• Linux Upstreams to v4.4.249
-• Rebased EAS version over HMP version
-• Update wireguard to 1.0.20201221 snapshot
-• Build with latest Proton Clang 12.0.0 + LTO + O3 + DCE
+• Upstream to Linux version 4.4.255
+• Update wireguard to 1.0.20210124 snapshot
+• Merge tag LA.UM.8.2.r2-03800-sdm660.0
+• Get rid of a Variable Length Array (VLA)
+• Use analog dimming
+• Disable debugfs drivers
 • Misc changes
+• Compiled with Eva GCC 11.0.0

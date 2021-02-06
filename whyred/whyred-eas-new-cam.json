@@ -1,11 +1,11 @@
 {
   "kernel": {
     "name": "Stormbreaker [EAS NEW CAM]",
-    "version": "6.7",
-    "link": "https://github.com/sreekfreak995/kranul/releases/download/v6.7/SB-eas-new-cam-20201229_145249-kernel-signed.zip",
+    "version": "6.8",
+    "link": "https://github.com/SreekanthPalakurthi/kranul/releases/download/V6.8/SB-eas-new-cam-20210206_164114-kernel-signed.zip",
     "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/whyred/whyred-changelog.txt",
-    "date": "2020-12-29",
-    "sha1": "155f1dbf1d1cc7437fd22ad935c3eb233dc97f1b"
+    "date": "2021-02-06",
+    "sha1": "01da39ec75c096c47108d9d463f66799cba7f4c4"
   },
   "support": {
     "link": "https://t.me/ArrowBreaker"
