@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Surya Stormbreaker",
+    "version": "r1",
+    "link": "",
+    "changelog_url": "https://raw.githubusercontent.com/stormbreaker-project/FKM/master/surya/surya-changelog.txt",
+    "date": "2020-04-24",
+    "sha1": ""
+  },
+  "support": {
+    "link": ""
+  }
+}
