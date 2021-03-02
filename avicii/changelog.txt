@@ -1,3 +1,2 @@
-1. Fixed Double Tap to Wake.
-2. Fixed offscreen gestures.
-3. Added Wireguard Support.
+1. Rebased on Android 11 Source.
+2. Toooooo much, try yourself.
